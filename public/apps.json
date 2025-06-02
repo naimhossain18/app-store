@@ -1,0 +1,230 @@
+[
+  {
+    "id": "app001",
+    "name": "Programming Hero",
+    "developer": "Programming Hero Ltd.",
+    "thumbnail": "https://images.unsplash.com/photo-1581092334600-5ce85f03d4d7?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=800&q=80",
+    "downloads": 3500000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Fun and interactive way to learn programming.",
+    "features": ["Interactive lessons", "Projects", "Gamification"],
+    "reviews": [
+      {
+        "user": "coder_nadia",
+        "rating": 5,
+        "comment": "Great for beginners!"
+      }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "EduMaster",
+    "developer": "Smart Learn Inc.",
+    "thumbnail": "https://images.unsplash.com/photo-1557804506-669a67965ba0?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?fit=crop&w=800&q=80",
+    "downloads": 1200000,
+    "category": "Education",
+    "rating": 4.6,
+    "description": "Online learning platform for all ages.",
+    "features": ["Video courses", "Certificates", "Discussion forums"],
+    "reviews": [
+      {
+        "user": "student_mina",
+        "rating": 4,
+        "comment": "Very helpful for online classes."
+      }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "Brainy",
+    "developer": "IQ Labs",
+    "thumbnail": "https://images.unsplash.com/photo-1498079022511-d15614cb1c02?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?fit=crop&w=800&q=80",
+    "downloads": 800000,
+    "category": "Education",
+    "rating": 4.4,
+    "description": "Boost your memory and intelligence.",
+    "features": ["Puzzles", "Quizzes", "Progress tracking"],
+    "reviews": [
+      {
+        "user": "thinker_tom",
+        "rating": 4,
+        "comment": "Brain exercises are fun."
+      }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "NoteMate",
+    "developer": "Organize Inc.",
+    "thumbnail": "https://images.unsplash.com/photo-1581090700227-1e8e99a98d72?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?fit=crop&w=800&q=80",
+    "downloads": 600000,
+    "category": "Productivity",
+    "rating": 4.4,
+    "description": "Your smart companion for notes and reminders.",
+    "features": ["Voice notes", "Checklist", "Cloud sync"],
+    "reviews": [
+      {
+        "user": "organizer_pro",
+        "rating": 4,
+        "comment": "Helps me stay on track."
+      }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "TaskFlow",
+    "developer": "FlowTech",
+    "thumbnail": "https://images.unsplash.com/photo-1551739440-36f9ba5d5eb3?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?fit=crop&w=800&q=80",
+    "downloads": 950000,
+    "category": "Productivity",
+    "rating": 4.5,
+    "description": "Simplify your task management.",
+    "features": ["Drag & drop tasks", "Deadline reminders", "Project boards"],
+    "reviews": [
+      {
+        "user": "dev_julie",
+        "rating": 5,
+        "comment": "Clean UI and very useful!"
+      }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "Focusly",
+    "developer": "Zen Systems",
+    "thumbnail": "https://images.unsplash.com/photo-1531498860502-7c3b9316b2f4?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?fit=crop&w=800&q=80",
+    "downloads": 720000,
+    "category": "Productivity",
+    "rating": 4.3,
+    "description": "Stay focused with Pomodoro and time tracking.",
+    "features": ["Pomodoro timer", "Focus stats", "Custom sessions"],
+    "reviews": [
+      {
+        "user": "time_keeper",
+        "rating": 4,
+        "comment": "Really helps with study sessions."
+      }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "FitTrack",
+    "developer": "HealthSync",
+    "thumbnail": "https://images.unsplash.com/photo-1599058917212-d750089bc07d?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1597764692901-b4feeeaeb3a4?fit=crop&w=800&q=80",
+    "downloads": 1100000,
+    "category": "Health",
+    "rating": 4.7,
+    "description": "Track your fitness goals with ease.",
+    "features": ["Step counter", "Calorie tracker", "Workout logs"],
+    "reviews": [
+      {
+        "user": "fit_guru",
+        "rating": 5,
+        "comment": "Best fitness tracker I've used!"
+      }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "HealthMate",
+    "developer": "LifePlus",
+    "thumbnail": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?fit=crop&w=800&q=80",
+    "downloads": 890000,
+    "category": "Health",
+    "rating": 4.6,
+    "description": "Manage your health and wellness.",
+    "features": ["Sleep monitor", "Water reminder", "Health records"],
+    "reviews": [
+      {
+        "user": "healthy_life",
+        "rating": 5,
+        "comment": "Love the reminders and insights."
+      }
+    ]
+  },
+  {
+    "id": "app009",
+    "name": "ZenFocus",
+    "developer": "Mindful Apps",
+    "thumbnail": "https://images.unsplash.com/photo-1552058544-f2b08422138a?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?fit=crop&w=800&q=80",
+    "downloads": 400000,
+    "category": "Health",
+    "rating": 4.5,
+    "description": "Meditation and mindfulness for peace.",
+    "features": ["Guided meditations", "Sleep sounds", "Focus timer"],
+    "reviews": [
+      {
+        "user": "zen_master",
+        "rating": 5,
+        "comment": "Helps me relax daily."
+      }
+    ]
+  },
+  {
+    "id": "app010",
+    "name": "LangLearn",
+    "developer": "Language Masters",
+    "thumbnail": "https://images.unsplash.com/photo-1584697964403-d7d5ebfba852?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1560787313-5dff3307e257?fit=crop&w=800&q=80",
+    "downloads": 850000,
+    "category": "Education",
+    "rating": 4.6,
+    "description": "Learn new languages quickly.",
+    "features": ["Interactive lessons", "Vocabulary builder", "Speaking practice"],
+    "reviews": [
+      {
+        "user": "polyglot_joe",
+        "rating": 5,
+        "comment": "Spanish is so easy now!"
+      }
+    ]
+  },
+  {
+    "id": "app011",
+    "name": "StudyPlus",
+    "developer": "EduTools",
+    "thumbnail": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1513258496099-48168024aec0?fit=crop&w=800&q=80",
+    "downloads": 530000,
+    "category": "Education",
+    "rating": 4.2,
+    "description": "Plan and manage your study schedule.",
+    "features": ["Timetable", "Goal setting", "Study tracker"],
+    "reviews": [
+      {
+        "user": "uni_kid",
+        "rating": 4,
+        "comment": "Helps me manage college workload."
+      }
+    ]
+  },
+  {
+    "id": "app012",
+    "name": "QuickDoc",
+    "developer": "ProWrite Labs",
+    "thumbnail": "https://images.unsplash.com/photo-1580894894512-e5b6f6d9012d?fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1580894908361-bc99cbb061c8?fit=crop&w=800&q=80",
+    "downloads": 460000,
+    "category": "Productivity",
+    "rating": 4.1,
+    "description": "Create and edit documents instantly.",
+    "features": ["Templates", "Collaboration", "Cloud save"],
+    "reviews": [
+      {
+        "user": "writer_mike",
+        "rating": 4,
+        "comment": "Saves me so much time!"
+      }
+    ]
+  }
+]
